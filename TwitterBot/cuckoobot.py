@@ -1,5 +1,3 @@
-# TwtterBot
-
 import tweepy
 import datetime
 import threading
